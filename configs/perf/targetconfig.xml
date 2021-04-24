@@ -91,7 +91,7 @@
              Target="sdm429"
              NumClusters="1"
              TotalNumCores="4"
-             SocIds="354,364"
+             SocIds="354,364,416,437"
              SynCore="1"
              MinCoreOnline="0"
              CpufreqGov="1"
