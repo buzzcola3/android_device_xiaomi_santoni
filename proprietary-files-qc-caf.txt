@@ -175,15 +175,15 @@ vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy|f060101b26d3674bb173e5f
 vendor/lib/vendor.qti.hardware.dsp@1.0.so|3326828ea7f6f8139429d2cd0379e80f5ca5178d
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so|95b26a4a29f1443ec389be6ca80151a0aec96b36
 
-# DRM - from LA.UM.9.6.2.r1-04200-89xx.0
+# DRM - from LA.UM.9.6.2.r1-04100-89xx.0
 vendor/bin/qseecomd|80c97092e609e00057e4037da490c54b09205be0
 vendor/lib/libQSEEComAPI.so|90a357a7068c37d0dd1b6428981b27243f6f0c28
-vendor/lib64/libGPreqcancel.so|d851bcc3e1b982d8403dc86921c5dd9274f71dc5
-vendor/lib64/libGPreqcancel_svc.so|d18534dc68de265064366bc5a6122149163be757
+vendor/lib64/libGPreqcancel.so|d3278679f75371f7d6813f69ee04cda66e46b445
+vendor/lib64/libGPreqcancel_svc.so|817fced1daa7913b363fdbebf2e0587e1f34b8eb
 vendor/lib64/libQSEEComAPI.so|5d10cbc93360fbb8fce662e2e7c787441f978b26
 vendor/lib64/libSecureUILib.so|f490abdef04ca0806ebcc9efde7acab628294178
 vendor/lib64/libStDrvInt.so|add517206707a8bd7f116b6b1554a16c51fe6668
-vendor/lib64/libdrmfs.so|61ee218dcdfa276d63ecfe9706d0b8f30f7d5247
+vendor/lib64/libdrmfs.so|071f9238bfa70ebd9d28748a21f6bb3297057d49
 vendor/lib64/libdrmtime.so|2d53dd4f3d0ee920263a89f6e6d4acad837ca672
 vendor/lib64/libqisl.so|e9c402aed643ee094daaf495f1a3a1f29542d602
 vendor/lib64/librpmb.so|9a9e747080c33f14bc0457e7d65e3c09fa5bff87
