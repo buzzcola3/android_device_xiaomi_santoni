@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_santoni.mk
+    $(LOCAL_DIR)/potato_santoni.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_santoni-userdebug \
-    lineage_santoni-user \
-    lineage_santoni-eng
+    potato_santoni-userdebug \
+    potato_santoni-user \
+    potato_santoni-eng
